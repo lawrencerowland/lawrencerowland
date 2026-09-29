@@ -1,55 +1,37 @@
-# 👋  Hi, I’m **Lawrence Rowland**
+# Lawrence Rowland
 
-A project-delivery specialist turned AI consultant.  
-I help infrastructure owners, project-services firms and tech innovators **bring large-language-model (LLM) tools into real-world projects** – from first prototype to enterprise-scale adoption. :contentReference[oaicite:0]{index=0}  
+**Independent project experiments**
 
----
+I use small, concrete project scenarios to explore how work, resources, risks and decisions fit together. A circular brick wall, a shared farm lane or a mountain refuge gives us something recognisable to think with before turning to the mathematics.
 
-## 🚀  What I’m doing right now
+**[Explore the projects](https://lawrencerowland.github.io/side-projects.html)** · **[Browse the library](https://lawrencerowland.github.io/library.html)**
 
-| Area | What that looks like |
-|------|----------------------|
-| **Custom GPTs & Retrieval-Augmented tools** | Building “Librarian” & “Coach” GPTs that answer code-compliance or project-controls questions straight from your document set. :contentReference[oaicite:1]{index=1} |
-| **Fractional AI leadership for consultancies** | Acting as interim **AI Lead / Chief AI Officer** to craft roadmaps, pick vendors and up-skill teams. :contentReference[oaicite:2]{index=2} |
-| **Workshops & micro-courses** | One-day intensives in London (plus hybrid option) covering LLM ecosystems, multimodal workflows, agents & innovation pipelines. :contentReference[oaicite:4]{index=4} |
+## Two places to start
 
----
+### Build a circular wall
 
-## 🧰  Tech & Methods I use
+<a href="https://lawrencerowland.github.io/bricklaying-a-rotunda/"><img src="https://lawrencerowland.github.io/bricklaying-a-rotunda/dynamic%20project%20states%20project.png" alt="Partly built circular brick wall with alternative project trajectories" width="420"></a>
 
-- **LLM platforms:** OpenAI (o1 Pro, GPT-4o), Gemini 2 Pro/Flash, Claude 3 Sonnet / Haiku, DeepSeek R1, Mistral, Llama 3.  
-- **Frameworks & stacks:** LangChain 🦜, Agents API, ElizaOS, Replit Agents, Hugging Face, Snowflake, Databricks, Azure AI, Neo4j (Cypher).  
-- **Languages:** Python | JavaScript | Julia | SQL | Cypher.  
-- **PM disciplines:** Portfolio selection, IPA Routemap, PMO analytics, risk sheaf-theory experiments, modular project design.   
+**How does a project’s history emerge from the choices available now?** [Bricklaying a Rotunda](https://lawrencerowland.github.io/bricklaying-a-rotunda/) starts with a wall built course by course, then explores changing states, shared resources and possible trajectories.
 
----
+### Share the lane with the cows
 
-## 💡  Looking to collaborate on
+<a href="https://lawrencerowland.github.io/integrated_risks_tasks/"><img src="https://lawrencerowland.github.io/integrated_risks_tasks/assets/emblem.svg" alt="A cow and a concrete wagon share the narrow lane to a construction site" width="420"></a>
 
-1. **Graph / sheaf-based representations of schedules, risks & supply-chains**  
-2. **Domain-specific GPTs** that sit safely behind Team/Enterprise workspaces.  
-3. **AI adoption playbooks** for medium-sized consultancies and PMOs.  
-4. **Open-source project-analytics packages** (Python/JS) – reach out if you’d like to co-maintain.
+**Can tasks and threats be understood through one process model?** [Integrated risks & tasks](https://lawrencerowland.github.io/integrated_risks_tasks/) uses cows, concrete and shared access to explore wiring diagrams and alternative executions.
 
----
+## What I am trying to understand
 
-## 📈  A (very) short career digest
+How can recurring pieces of project work connect without losing the conditions that make them work? Petri nets, wiring diagrams, category theory, project ontologies and decision models offer different ways into that question. The examples help me test what each method contributes—and where it stops helping.
 
-- **React AI** – AI Consultant (2024- ) helping BSA Consult Ltd, Team Animation Ltd & others embed GPTs.  
-- **Projecting Success** – AI for Projects (2020-2023) on NDA next-gen PMO & knowledge-graph pilots.  
-- **Mi-GSO Pcubed / Strategy& / Bechtel / WSP** – 20+ yrs across megaprojects, PMO and transformation.   
+I build these experiments with AI assistance and share the sources, constructions and limits. An *essai* is a trial: it may reveal a useful connection, expose a mistake or leave a question open. Making the result understandable is part of the work.
+
+The [library](https://lawrencerowland.github.io/library.html) keeps earlier apps, practical guides and bounded worked examples available alongside the ongoing enquiries. A useful result under stated assumptions is worth retaining; it does not settle the whole project problem.
+
+This collection is independent public work. My employment and client work sit outside it. Reuse terms belong to the individual repositories and their sources.
 
 ---
 
-## 🤝  How to reach me
+[Website](https://lawrencerowland.github.io/) · [About the work](https://lawrencerowland.github.io/about_me.html) · [LinkedIn](https://www.linkedin.com/in/lawrencerowland/) · [GitHub](https://github.com/lawrencerowland)
 
-- **Email:** lawrence.rowland@reactai.com  
-- **LinkedIn:** [linkedin.com/in/lawrencerowland](https://www.linkedin.com/in/lawrencerowland/)  
-- **GitHub:** [@lawrencerowland](https://github.com/lawrencerowland)  
-- **Substack:** *An AI Talks Projects* – weekly notes on LLMs in capital delivery.  
-
----
-
-> *“LLMs won’t replace project managers, but project managers who wield LLMs will.”*  
-> — Feel free to fork, star or open an issue – I love swapping ideas.  
-
+Questions, counterexamples and clearer explanations are welcome. Open an issue in the relevant project repository, or get in touch through LinkedIn.
